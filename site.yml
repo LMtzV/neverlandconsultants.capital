@@ -1,7 +1,7 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Neverland Consultants"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: Neverland Consultants                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -10,12 +10,9 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "CV"
+    - text: "Company's CV"
       icon: fa-file-pdf-o
-      href: cv.html
-    - text: "Blog"
-      icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: NevCV.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
